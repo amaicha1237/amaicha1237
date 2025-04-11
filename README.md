@@ -1,5 +1,8 @@
-## Hi there 👋
+## ✨Welcome to my corner of GitHub!✨
+Call me Jenni, or Amaicha!
+She/her, queer, and a lover of all things pink and shiny!
 
+I'm working on some _secret_ repos right now, but hoping to share those and contribute to some open source games soon!
 <!--
 **amaicha1237/amaicha1237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
